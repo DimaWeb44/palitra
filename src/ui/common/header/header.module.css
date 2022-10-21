@@ -1,0 +1,16 @@
+.header {
+    margin-left: 15px;
+    margin-bottom: 24px;
+}
+
+.item {
+    margin-right: 38px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.active {
+    margin-right: 38px;
+    color: #FFFFFF;
+    text-decoration: underline;
+}

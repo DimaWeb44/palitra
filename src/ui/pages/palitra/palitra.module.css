@@ -1,0 +1,41 @@
+.palitra {
+    width: 100%;
+    min-height: 600px;
+}
+
+.colors{
+    min-height: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.item{
+    width: 54px;
+    height: 54px;
+    border-radius: 5px;
+    margin: 0 13px 17px 13px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #007AFF;
+    height: 50px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #006fff;
+}
+
+.btn:active{
+    background: #007AFF;
+}
+
+
