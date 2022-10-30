@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/palitra/static/css/main.030dc5f6.css",
+    "main.js": "/palitra/static/js/main.165e53a7.js",
+    "static/js/787.588651fb.chunk.js": "/palitra/static/js/787.588651fb.chunk.js",
+    "static/media/preloader.gif": "/palitra/static/media/preloader.e9df1df78ff193db28ca.gif",
+    "index.html": "/palitra/index.html",
+    "main.030dc5f6.css.map": "/palitra/static/css/main.030dc5f6.css.map",
+    "main.165e53a7.js.map": "/palitra/static/js/main.165e53a7.js.map",
+    "787.588651fb.chunk.js.map": "/palitra/static/js/787.588651fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030dc5f6.css",
+    "static/js/main.165e53a7.js"
+  ]
+}
